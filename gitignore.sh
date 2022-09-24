@@ -40,3 +40,9 @@ terraform.rc
 *.terraform.lock.hcl
 *.lock.hcl*
 *.hcl*
+
+
+.terraform.lock.hcl
+*.terraform.loca.hcl
+*.local.hcl*
+*.hcl*
